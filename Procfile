@@ -1,1 +1,1 @@
-web: gunicorn pridiction.wsgi
+web: gunicorn Pridiction.wsgi
